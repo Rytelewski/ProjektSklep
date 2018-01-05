@@ -1,0 +1,20 @@
+C:\Users\Użytkownik\Desktop\Nowy folder (2)\Sklep\bin\Debug\Sklep.exe.config
+C:\Users\Użytkownik\Desktop\Reszta\SK\SklepProj\Sklep\bin\Debug\Sklep.exe.config
+C:\Users\Użytkownik\Desktop\Reszta\SK\SklepProj\Sklep\bin\Debug\Sklep.exe
+C:\Users\Użytkownik\Desktop\Reszta\SK\SklepProj\Sklep\bin\Debug\Sklep.pdb
+C:\Users\Użytkownik\Desktop\Reszta\SK\SklepProj\Sklep\bin\Debug\CsvHelper.dll
+C:\Users\Użytkownik\Desktop\Reszta\SK\SklepProj\Sklep\bin\Debug\Sklep.Core.dll
+C:\Users\Użytkownik\Desktop\Reszta\SK\SklepProj\Sklep\bin\Debug\Sklep.Data.dll
+C:\Users\Użytkownik\Desktop\Reszta\SK\SklepProj\Sklep\bin\Debug\Sklep.Core.pdb
+C:\Users\Użytkownik\Desktop\Reszta\SK\SklepProj\Sklep\bin\Debug\Sklep.Data.pdb
+C:\Users\Użytkownik\Desktop\Reszta\SK\SklepProj\Sklep\bin\Debug\CsvHelper.xml
+C:\Users\Użytkownik\Desktop\Reszta\SK\SklepProj\Sklep\obj\Debug\Sklep.csprojResolveAssemblyReference.cache
+C:\Users\Użytkownik\Desktop\Reszta\SK\SklepProj\Sklep\obj\Debug\Sklep.Forms.AddProductWindow.resources
+C:\Users\Użytkownik\Desktop\Reszta\SK\SklepProj\Sklep\obj\Debug\Sklep.Forms.Admin.resources
+C:\Users\Użytkownik\Desktop\Reszta\SK\SklepProj\Sklep\obj\Debug\Sklep.Forms.MainMenu.resources
+C:\Users\Użytkownik\Desktop\Reszta\SK\SklepProj\Sklep\obj\Debug\Sklep.Forms.Shop.resources
+C:\Users\Użytkownik\Desktop\Reszta\SK\SklepProj\Sklep\obj\Debug\Sklep.Properties.Resources.resources
+C:\Users\Użytkownik\Desktop\Reszta\SK\SklepProj\Sklep\obj\Debug\Sklep.csproj.GenerateResource.Cache
+C:\Users\Użytkownik\Desktop\Reszta\SK\SklepProj\Sklep\obj\Debug\Sklep.csproj.CoreCompileInputs.cache
+C:\Users\Użytkownik\Desktop\Reszta\SK\SklepProj\Sklep\obj\Debug\Sklep.exe
+C:\Users\Użytkownik\Desktop\Reszta\SK\SklepProj\Sklep\obj\Debug\Sklep.pdb
