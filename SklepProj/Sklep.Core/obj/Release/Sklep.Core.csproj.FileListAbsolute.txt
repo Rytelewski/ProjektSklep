@@ -1,0 +1,5 @@
+C:\Users\Użytkownik\Desktop\SklepProj\Sklep.Core\bin\Release\Sklep.Core.dll
+C:\Users\Użytkownik\Desktop\SklepProj\Sklep.Core\bin\Release\Sklep.Core.pdb
+C:\Users\Użytkownik\Desktop\SklepProj\Sklep.Core\obj\Release\Sklep.Core.csproj.CoreCompileInputs.cache
+C:\Users\Użytkownik\Desktop\SklepProj\Sklep.Core\obj\Release\Sklep.Core.dll
+C:\Users\Użytkownik\Desktop\SklepProj\Sklep.Core\obj\Release\Sklep.Core.pdb
