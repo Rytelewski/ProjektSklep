@@ -1,0 +1,28 @@
+Program symuluj¹cy dzia³anie sklepu z magazynem
+
+Opis sekcji->
+#Panel administracyjny:
+##Sekcja produkty:
+Pozwala dowolnie edytowaæ przy pomocy tabelki dostêpne produkty i ich iloœæ na magazynie.
+##Sekcja transakcje:
+Pozwala przegl¹daæ transakcje i odszukiwaæ
+
+#Panel sklepu
+Pozwala dodawaæ produkty do koszyka (prawy przycisk myszki, potem 'dodaj' by to zrobiæ)
+By usun¹æ produkt z koszyka wystarczy dwuklik
+
+Wszystko zapisywane jest w plikach csv
+
+Formularze s¹ responsywne i mo¿na je bez problemu rozci¹gaæ
+
+Dane o zakupie zapisywane s¹ w Data -> TransactionData
+
+Do budowania csv'ek u¿yto biblioteki
+https://github.com/JoshClose/CsvHelper
+
+Praca zosta³a wykonana Przez: Mateusz Rytelewski i Jakub Ptzszyñski
+
+Podzia³ pracy niestety nie mo¿e zostaæ przypisany do poszczególnych faz 
+poniewa¿ ca³y projekt zosta³ robiony przy wspólnej/zamiennej pracy (spotkania w jednej lokacji). 
+Je¿eli któryœ z nas mia³ pomys³ jedna osoba szuka³a optymalizacji lub rozwi¹zania
+druga natomiast stara³a siê to uj¹æ w kod.
