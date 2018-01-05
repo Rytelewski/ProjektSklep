@@ -1,0 +1,8 @@
+C:\Users\Użytkownik\Desktop\SklepProj\Sklep.Data\bin\Release\Sklep.Data.dll
+C:\Users\Użytkownik\Desktop\SklepProj\Sklep.Data\bin\Release\Sklep.Data.pdb
+C:\Users\Użytkownik\Desktop\SklepProj\Sklep.Data\bin\Release\Sklep.Core.dll
+C:\Users\Użytkownik\Desktop\SklepProj\Sklep.Data\bin\Release\Sklep.Core.pdb
+C:\Users\Użytkownik\Desktop\SklepProj\Sklep.Data\obj\Release\Sklep.Data.csprojResolveAssemblyReference.cache
+C:\Users\Użytkownik\Desktop\SklepProj\Sklep.Data\obj\Release\Sklep.Data.csproj.CoreCompileInputs.cache
+C:\Users\Użytkownik\Desktop\SklepProj\Sklep.Data\obj\Release\Sklep.Data.dll
+C:\Users\Użytkownik\Desktop\SklepProj\Sklep.Data\obj\Release\Sklep.Data.pdb
